@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">StoragePermission</string>
+    <string name="data">Data</string>
+    <string name="file_name">File Name</string>
+    <string name="file_data">File Data</string>
+    <string name="save">Save</string>
+    <string name="view">View</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Open Gallery</string>
+    <string name="save_to_gallery">Save Image to Gallery</string>
+</resources>
